@@ -1,0 +1,33 @@
+.codicon.codicon-settings-view-bar-icon {
+  display: none !important;
+}
+.codicon.codicon-chat-sparkle {
+  display: none !important;
+}
+.window-title {
+  display: none !important;
+}
+
+.composite-bar-container {
+  display: flex !important;
+  justify-content: space-around !important;
+}
+
+.xterm-decoration-overview-ruler {
+  display: none !important;
+}
+
+/* .separator-border .split-view-container {
+  grid-template-columns: 0px 1fr 0px !important;
+}
+
+.separator-border .split-view-container > .split-view-view:first-child,
+.separator-border .split-view-container > .split-view-view:last-child {
+  min-width: 0px !important;
+  width: 0px !important;
+} */
+
+/* .separator-border .split-view-view:nth-child(2) {
+  left: 0px !important;
+  width: 100% !important;
+} */
