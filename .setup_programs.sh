@@ -23,6 +23,7 @@ brew install \
   btop \
   go \
   python3 \
+  bfg \
   nvm
 
 echo "=== Installing GUI apps ==="
